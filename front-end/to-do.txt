@@ -1,0 +1,5 @@
+- Construir a API - express
+- Conexão com o banco de dados
+- Conectar o front com o back
+- Lógicas do player
+- Github e deploy
